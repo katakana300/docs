@@ -1,3 +1,5 @@
+#Markdown Là Gì
+
 <a href="http://www.hoclaptrinh.org/bai-viet/Markdown-La-Gi" title="Markdown Là Gì">Markdown</a> là ngôn ngữ đánh dấu văn bản được tạo ra bởi John Gruber. Markdown sử dụng cú pháp khá đơn giản và dễ hiểu để đánh dấu văn bản và văn bản được viết bằng **Markdown** sẽ có thể được chuyển đổi sang HTML. Ngược lại các văn bản được viết bằng HTML cũng có thể được chuyển đổi sang Markdown.
 
 Trong bài viết này chúng ta sẽ tìm hiểu tại sao cần sử dụng <a href="http://www.hoclaptrinh.org/bai-viet/Markdown-La-Gi" title="Markdown Là Gì">Markdown</a> và sử dụng nó như thế nào.
